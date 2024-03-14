@@ -103,7 +103,6 @@ button {
 	padding: 18px 48px;
 	font-size: 16px;
 	font-weight: bold;
-	cursor: pointer;
 }
 
 button:enabled {
@@ -114,6 +113,7 @@ button:enabled {
 	padding: 18px 48px;
 	font-size: 16px;
 	font-weight: bold;
+	cursor: pointer;
 }
 
 p a {
