@@ -44,6 +44,16 @@ input:focus {
 	box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
 
+.error {
+	border: 1px solid red;
+}
+
+.password-mismatch-error {
+	font-size: 14px;
+	color: red;
+	margin-top: -22px;
+}
+
 ul {
 	padding: 0;
 	display: flex;
