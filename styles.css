@@ -96,6 +96,16 @@ img {
 }
 
 button {
+	background-color: lightgray;
+	color: grey;
+	border: 0;
+	border-radius: 8px;
+	padding: 18px 48px;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+button:enabled {
 	background-color: #F7931E;
 	color: white;
 	border: 0;
